@@ -1,0 +1,2 @@
+# jssafelink
+my js
